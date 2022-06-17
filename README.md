@@ -1,0 +1,2 @@
+# jspi
+Shunchaki ko'rgazma
